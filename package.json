@@ -1,5 +1,5 @@
 {
-  "name": "uebuild",
+  "name": "@zitool/uebuild",
   "version": "0.0.1",
   "description": "Unreal Engine project management CLI tool for Agent integration",
   "main": "dist/index.js",
